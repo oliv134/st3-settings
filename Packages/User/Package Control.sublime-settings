@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Package Control",
+		"SFTP",
+		"SublimeLinter",
+		"Vagrant"
+	]
+}
